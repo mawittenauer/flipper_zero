@@ -1,6 +1,6 @@
 ID 1234:5678 Apple:Keyboard
 
-REM Open treminal window
+REM Open terminal window
 DELAY 1000
 GUI SPACE
 DELAY 500
